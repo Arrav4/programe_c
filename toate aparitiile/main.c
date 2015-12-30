@@ -6,6 +6,7 @@ void scriere(int n, float *p)
     {
         printf("\n v[%d] = ",i ); scanf("%f", &p[i]);
     }
+    //modificat
 return;
 }
 float rezolvare(int n, float *p, float nr,  int j, float *poz)
