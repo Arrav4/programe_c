@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445184287 source:d:\george\codeblocks\primulprogram\main.c
+	<stdio.h>
+	<stdlib.h>
+

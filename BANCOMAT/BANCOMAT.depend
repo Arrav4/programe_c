@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1445352361 source:d:\george\codeblocks\programe\bancomat\main.c
+	<stdio.h>
+	<conio.h>
+
+1448483435 source:d:\george\utilitati\codeblocks\programe\bancomat\main.c
+	<stdio.h>
+	<conio.h>
+

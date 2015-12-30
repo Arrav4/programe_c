@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445375449 source:d:\george\codeblocks\programe\for\main.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+

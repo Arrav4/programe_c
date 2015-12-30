@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445295521 source:d:\george\codeblocks\programe\bonuscompanie\main.c
+	<stdio.h>
+	<conio.h>
+

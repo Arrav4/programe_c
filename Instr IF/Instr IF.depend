@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445292674 source:d:\george\codeblocks\programe\instr if\main.c
+	<stdio.h>
+	<conio.h>
+

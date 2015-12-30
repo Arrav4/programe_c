@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445368725 source:d:\george\codeblocks\programe\drumbun\main.c
+	<stdio.h>
+	<conio.h>
+
